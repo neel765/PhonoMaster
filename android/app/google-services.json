@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220263583700",
+    "project_id": "phonomaster07",
+    "storage_bucket": "phonomaster07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220263583700:android:abef11987c0d7fb7eed041",
+        "android_client_info": {
+          "package_name": "com.phonomaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLtNQ1r0oqLRp1v5oe8aej03AXdGop7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
